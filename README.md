@@ -1,4 +1,4 @@
 # tinyxr-firmware-download
-Please refer below document to download the firmware to GP01 board.
+Please refer document "Firmware download guide_xxxx.pptx" in below folder to download the firmware to GP01 board.
 
-https://github.com/gojoylab/tinyxr-firmware-download/blob/main/FirmwareDownloader_20210112/Firmware%20download%20guide.pptx
+https://github.com/gojoylab/tinyxr-firmware-download/blob/main/FirmwareDownloader_20210112/
